@@ -99,3 +99,13 @@ a:hover {
 
   line-height: 20px;
 }
+
+#blockquote {
+  font: 14px;
+  padding-left: 70px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-right: 10px;
+  background-color: #F1F1F1;
+  margin: 5px;
+} 
