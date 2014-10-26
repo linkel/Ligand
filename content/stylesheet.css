@@ -100,3 +100,12 @@ a:hover {
   line-height: 20px;
 }
 
+#blockquote {
+  font: 14px;
+  background-color: #F1F1F1;
+  margin: 5px;
+} 
+
+#blockquote p {
+  background-color: #F1F1F1;
+  }
