@@ -1,7 +1,7 @@
 Deadlift Programs
 ===========
 
-Magnusson/Ortmayer 
+* Magnusson/Ortmayer 
 
-Coan/Phillippi 
+* Coan/Phillippi 
 
