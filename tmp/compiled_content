@@ -1,0 +1,536 @@
+{:	data{I"/:ET{:default{	:	lastI"<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Observations - Home</title>
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.7.3">
+  </head>
+  <body>
+    <div id="main">
+      
+<h1 id="observations">OBSERVATIONS</h1>
+<p><br /></p>
+
+<h2 id="powerlifting">POWERLIFTING</h2>
+<ul>
+  <li><a href="http://ligand.me/Norwegian_High_Frequency_Programs" title="Norwegian study on high-frequency lifting leading to faster strength gains">Norwegian High Frequency Programs</a></li>
+  <li><a href="http://ligand.me/Heart_Rate_Variability_and_Lifting" title="Using HRV to assist in programming deloads">Heart Rate Variability and Lifting</a></li>
+  <li><a href="http://ligand.me/Meet_Prep" title="Preparing for a meet">Meet Prep</a></li>
+</ul>
+
+<h2 id="header-test">HEADER TEST</h2>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+
+<h2 id="header-test-again">HEADER TEST AGAIN</h2>
+<ul>
+  <li>Item 3</li>
+  <li>Item 4</li>
+</ul>
+
+    </div>
+    <div id="sidebar">
+      <h2>SITE INFO</h2>
+      <ul>
+        <li><a href="http://www.ligand.me">HOME</a></li>
+        <li><a href="http://www.ligand.me/about">ABOUT</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+;T:rawI"
+OBSERVATIONS
+========== 
+ <br/>
+
+POWERLIFTING
+---------------
+* [Norwegian High Frequency Programs](http://ligand.me/Norwegian_High_Frequency_Programs "Norwegian study on high-frequency lifting leading to faster strength gains")
+* [Heart Rate Variability and Lifting](http://ligand.me/Heart_Rate_Variability_and_Lifting "Using HRV to assist in programming deloads")
+* [Meet Prep](http://ligand.me/Meet_Prep "Preparing for a meet")
+
+HEADER TEST
+----------------
+* Item 1
+* Item 2
+
+HEADER TEST AGAIN
+-------------
+* Item 3
+* Item 4;T:preI"â
+<h1 id="observations">OBSERVATIONS</h1>
+<p><br /></p>
+
+<h2 id="powerlifting">POWERLIFTING</h2>
+<ul>
+  <li><a href="http://ligand.me/Norwegian_High_Frequency_Programs" title="Norwegian study on high-frequency lifting leading to faster strength gains">Norwegian High Frequency Programs</a></li>
+  <li><a href="http://ligand.me/Heart_Rate_Variability_and_Lifting" title="Using HRV to assist in programming deloads">Heart Rate Variability and Lifting</a></li>
+  <li><a href="http://ligand.me/Meet_Prep" title="Preparing for a meet">Meet Prep</a></li>
+</ul>
+
+<h2 id="header-test">HEADER TEST</h2>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+
+<h2 id="header-test-again">HEADER TEST AGAIN</h2>
+<ul>
+  <li>Item 3</li>
+  <li>Item 4</li>
+</ul>
+;T:	post@
+I"/stylesheet/;T{;{;I"ì* {
+  margin: 0;
+  padding: 0;
+
+  font-family: Georgia, Palatino, serif;
+}
+
+body {
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #666;
+}
+
+a:hover {
+  color: #666;
+}
+
+#main {
+  position: absolute;
+
+  top: 30px;
+  left: 280px;
+
+  width: 900px;
+}
+
+#main h1 {
+  font-size: 32px;
+  font-weight: bold;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+}
+
+#main p {
+  margin: 20px 0;
+
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: absolute;
+
+  top: 40px;
+  left: 20px;
+  width: 150px;
+
+  padding: 20px 20px 0 0;
+
+  border-right: 1px solid #ccc;
+
+  text-align: right;
+}
+
+#sidebar h2 {
+  text-transform: uppercase;
+
+  font-size: 14px;
+
+  color: #333;
+
+  letter-spacing: 1px;
+
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 14px;
+
+  line-height: 20px;
+}
+;T;	@;
+@I"/about/;T{;{	;I"u<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Observations - About</title>
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.7.3">
+  </head>
+  <body>
+    <div id="main">
+      
+<h1 id="about">ABOUT</h1>
+
+<p>This site is a compilation of notes. </p>
+
+    </div>
+    <div id="sidebar">
+      <h2>SITE INFO</h2>
+      <ul>
+        <li><a href="http://www.ligand.me">HOME</a></li>
+        <li><a href="http://www.ligand.me/about">ABOUT</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+;T;	I"<
+ABOUT
+=====
+
+This site is a compilation of notes. ;T;
+I"N
+<h1 id="about">ABOUT</h1>
+
+<p>This site is a compilation of notes. </p>
+;T;@I"(/Norwegian_High_Frequency_Programs/;T{;{	;I"‡<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Observations - Norwegian High Frequency Programs</title>
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.7.3">
+  </head>
+  <body>
+    <div id="main">
+      
+<h1 id="norwegian-high-frequency-programs">NORWEGIAN HIGH FREQUENCY PROGRAMS</h1>
+
+<p>There has been some information floating around on lifting blogs that make mention of a study run in Norway on competitive powerlifters by Dietmar Wolf, a weightlifting coach. </p>
+
+<p><a href="http://www.ed.ac.uk/polopoly_fs/1.94449!/fileManager/Book%20of%20Abstracts%20ECSS%20Bruges%202012.pdf" title="The source of the abstract">Book of Abstracts, ECSS 2012</a></p>
+
+<p>The text of the abstract has been transcribed below for convenience:</p>
+
+<p><strong>POWERLIFTERS IMPROVED STRENGTH AND MUSCULAR ADAPTATIONS TO A GREATER EXTENT WHEN EQUAL TOTAL
+TRAINING VOLUME WAS DIVIDED INTO 6 COMPARED TO 3 TRAINING SESSIONS PER WEEK</strong></p>
+
+<p>Raastad, T., Kirketeig, A., Wolf, D., Paulsen, G.
+Norwegian School of Sport Sciences</p>
+
+<h4 id="introduction">Introduction</h4>
+
+<p>Traditionally, powerlifters have divided total training volume into 3-4 weekly training sessions, where each of the three competition
+lifts (squat, deadlift and bench-press) typically is trained twice a week in addition to other exercises. Interestingly, in weightlifters
+and female athletes favourable training adaptations have been indicated when training volume was divided into more frequent and
+smaller training sessions (1, 2). Therefore, the aim of this study was to compare the effect performing three large vs. six small training
+sessions per week in a group of competitive powerlifters. </p>
+
+<h4 id="methods">Methods</h4>
+
+<p>A total of 16 powerlifters with the mean age of 21.1+/-3.6 years volunteered
+for the study (13 men, and 3 women). All subjects had competed in national powerlifting competitions within the last 6 months,
+and all had trained continuously for competitive powerlifting for at least 1 year before entering the study. Effect of training was assessed
+as changes in 1 RM in squat, bench-press and deadlift (all tests were performed without powerlifting suits), and as changes in cross
+sectional area (CSA) of m. quadriceps. Testing was conducted before and after a 15 week intervention period, in which the weekly training
+volume was distributed as either 3 or 6 weekly training sessions. Total training, volume, training intensity and exercises was identical in
+the two training groups, and briefly the lifters in the 3/week group performed twice as many sets as the 6/week group in each session.</p>
+
+<h4 id="results">Results</h4>
+
+<p>At the start of the study performance without suits in squat, bench press and deadlift were similar in the two groups (167+/-45,
+123+/-40 and 201+/-46 kg respectively). After the 15 week intervention period 1 RM in squat and bench-press increased more in the 6/week
+than in 3/week group (11+/-6 vs. 5+/-3% and 11+/-4 vs. 6+/-3%, respectively, p&lt;0.05), whereas no significant difference between groups was
+observed for the deadlift (9+/-6 v. 4+/-6%). CSA of m. quadriceps increased more in the 6/week group than in the 3/week group (4.2+/-4.3 vs.
+-0.6+/-1.6%, respectively). </p>
+
+<h4 id="discussion">Discussion</h4>
+
+<p>Dividing total training volume into 6 smaller sessions was more effective than the traditional 3 sessions
+per week regime both for the increase in 1 RM in squat and bench-press, as well as for the increase in thigh muscle CSA. The
+mechanisms behind the superior effects of more frequent and smaller sessions cannot be directly addressed in this study, but more
+frequent stimuli for hypertrophy and less fatiguing sessions might be possible explanations. </p>
+
+<p>1 Hakkinen &amp; Kallinen (1994) Electromyogr.
+Clin. Neurophysiol. 
+2 Hartman et al. (2007) Int. J. Sports Physiol. Perform.</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>SITE INFO</h2>
+      <ul>
+        <li><a href="http://www.ligand.me">HOME</a></li>
+        <li><a href="http://www.ligand.me/about">ABOUT</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+;T;	I"’
+NORWEGIAN HIGH FREQUENCY PROGRAMS
+=========
+
+There has been some information floating around on lifting blogs that make mention of a study run in Norway on competitive powerlifters by Dietmar Wolf, a weightlifting coach. 
+
+[Book of Abstracts, ECSS 2012](http://www.ed.ac.uk/polopoly_fs/1.94449!/fileManager/Book%20of%20Abstracts%20ECSS%20Bruges%202012.pdf "The source of the abstract")
+
+The text of the abstract has been transcribed below for convenience:
+
+**POWERLIFTERS IMPROVED STRENGTH AND MUSCULAR ADAPTATIONS TO A GREATER EXTENT WHEN EQUAL TOTAL
+TRAINING VOLUME WAS DIVIDED INTO 6 COMPARED TO 3 TRAINING SESSIONS PER WEEK**
+
+Raastad, T., Kirketeig, A., Wolf, D., Paulsen, G.
+Norwegian School of Sport Sciences
+
+####Introduction
+
+Traditionally, powerlifters have divided total training volume into 3-4 weekly training sessions, where each of the three competition
+lifts (squat, deadlift and bench-press) typically is trained twice a week in addition to other exercises. Interestingly, in weightlifters
+and female athletes favourable training adaptations have been indicated when training volume was divided into more frequent and
+smaller training sessions (1, 2). Therefore, the aim of this study was to compare the effect performing three large vs. six small training
+sessions per week in a group of competitive powerlifters. 
+
+####Methods
+
+A total of 16 powerlifters with the mean age of 21.1+/-3.6 years volunteered
+for the study (13 men, and 3 women). All subjects had competed in national powerlifting competitions within the last 6 months,
+and all had trained continuously for competitive powerlifting for at least 1 year before entering the study. Effect of training was assessed
+as changes in 1 RM in squat, bench-press and deadlift (all tests were performed without powerlifting suits), and as changes in cross
+sectional area (CSA) of m. quadriceps. Testing was conducted before and after a 15 week intervention period, in which the weekly training
+volume was distributed as either 3 or 6 weekly training sessions. Total training, volume, training intensity and exercises was identical in
+the two training groups, and briefly the lifters in the 3/week group performed twice as many sets as the 6/week group in each session.
+
+####Results 
+
+At the start of the study performance without suits in squat, bench press and deadlift were similar in the two groups (167+/-45,
+123+/-40 and 201+/-46 kg respectively). After the 15 week intervention period 1 RM in squat and bench-press increased more in the 6/week
+than in 3/week group (11+/-6 vs. 5+/-3% and 11+/-4 vs. 6+/-3%, respectively, p<0.05), whereas no significant difference between groups was
+observed for the deadlift (9+/-6 v. 4+/-6%). CSA of m. quadriceps increased more in the 6/week group than in the 3/week group (4.2+/-4.3 vs.
+-0.6+/-1.6%, respectively). 
+
+####Discussion 
+
+Dividing total training volume into 6 smaller sessions was more effective than the traditional 3 sessions
+per week regime both for the increase in 1 RM in squat and bench-press, as well as for the increase in thigh muscle CSA. The
+mechanisms behind the superior effects of more frequent and smaller sessions cannot be directly addressed in this study, but more
+frequent stimuli for hypertrophy and less fatiguing sessions might be possible explanations. 
+
+1 Hakkinen & Kallinen (1994) Electromyogr.
+Clin. Neurophysiol. 
+2 Hartman et al. (2007) Int. J. Sports Physiol. Perform.;T;
+I"?
+<h1 id="norwegian-high-frequency-programs">NORWEGIAN HIGH FREQUENCY PROGRAMS</h1>
+
+<p>There has been some information floating around on lifting blogs that make mention of a study run in Norway on competitive powerlifters by Dietmar Wolf, a weightlifting coach. </p>
+
+<p><a href="http://www.ed.ac.uk/polopoly_fs/1.94449!/fileManager/Book%20of%20Abstracts%20ECSS%20Bruges%202012.pdf" title="The source of the abstract">Book of Abstracts, ECSS 2012</a></p>
+
+<p>The text of the abstract has been transcribed below for convenience:</p>
+
+<p><strong>POWERLIFTERS IMPROVED STRENGTH AND MUSCULAR ADAPTATIONS TO A GREATER EXTENT WHEN EQUAL TOTAL
+TRAINING VOLUME WAS DIVIDED INTO 6 COMPARED TO 3 TRAINING SESSIONS PER WEEK</strong></p>
+
+<p>Raastad, T., Kirketeig, A., Wolf, D., Paulsen, G.
+Norwegian School of Sport Sciences</p>
+
+<h4 id="introduction">Introduction</h4>
+
+<p>Traditionally, powerlifters have divided total training volume into 3-4 weekly training sessions, where each of the three competition
+lifts (squat, deadlift and bench-press) typically is trained twice a week in addition to other exercises. Interestingly, in weightlifters
+and female athletes favourable training adaptations have been indicated when training volume was divided into more frequent and
+smaller training sessions (1, 2). Therefore, the aim of this study was to compare the effect performing three large vs. six small training
+sessions per week in a group of competitive powerlifters. </p>
+
+<h4 id="methods">Methods</h4>
+
+<p>A total of 16 powerlifters with the mean age of 21.1+/-3.6 years volunteered
+for the study (13 men, and 3 women). All subjects had competed in national powerlifting competitions within the last 6 months,
+and all had trained continuously for competitive powerlifting for at least 1 year before entering the study. Effect of training was assessed
+as changes in 1 RM in squat, bench-press and deadlift (all tests were performed without powerlifting suits), and as changes in cross
+sectional area (CSA) of m. quadriceps. Testing was conducted before and after a 15 week intervention period, in which the weekly training
+volume was distributed as either 3 or 6 weekly training sessions. Total training, volume, training intensity and exercises was identical in
+the two training groups, and briefly the lifters in the 3/week group performed twice as many sets as the 6/week group in each session.</p>
+
+<h4 id="results">Results</h4>
+
+<p>At the start of the study performance without suits in squat, bench press and deadlift were similar in the two groups (167+/-45,
+123+/-40 and 201+/-46 kg respectively). After the 15 week intervention period 1 RM in squat and bench-press increased more in the 6/week
+than in 3/week group (11+/-6 vs. 5+/-3% and 11+/-4 vs. 6+/-3%, respectively, p&lt;0.05), whereas no significant difference between groups was
+observed for the deadlift (9+/-6 v. 4+/-6%). CSA of m. quadriceps increased more in the 6/week group than in the 3/week group (4.2+/-4.3 vs.
+-0.6+/-1.6%, respectively). </p>
+
+<h4 id="discussion">Discussion</h4>
+
+<p>Dividing total training volume into 6 smaller sessions was more effective than the traditional 3 sessions
+per week regime both for the increase in 1 RM in squat and bench-press, as well as for the increase in thigh muscle CSA. The
+mechanisms behind the superior effects of more frequent and smaller sessions cannot be directly addressed in this study, but more
+frequent stimuli for hypertrophy and less fatiguing sessions might be possible explanations. </p>
+
+<p>1 Hakkinen &amp; Kallinen (1994) Electromyogr.
+Clin. Neurophysiol. 
+2 Hartman et al. (2007) Int. J. Sports Physiol. Perform.</p>
+;T;@I"/Meet_Prep/;T{;{	;I"N<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Observations - </title>
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.7.3">
+  </head>
+  <body>
+    <div id="main">
+      <h1 id="meet-prep">MEET PREP</h1>
+
+<p>For raw lifters, one such guideline is as follows:</p>
+
+<p>4 - 5 weeks out, reduce volume
+10 - 14 days out, last heavy deadlift
+7 - 10 days out, last heavy squat
+5 days out, last heavy bench
+Perform openers, approximately 90% max
+2-3 days out, light squat, bench and deadlift (~50 - 60%)</p>
+
+<p>Lifters in lower weight classes and women will usually be able to recover faster than lifters in heavier weight classes. (Citation?)
+Two factor theory of recovery â€“&gt; Science and Practice of Strength Training</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>SITE INFO</h2>
+      <ul>
+        <li><a href="http://www.ligand.me">HOME</a></li>
+        <li><a href="http://www.ligand.me/about">ABOUT</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+;T;	I"MEET PREP
+======
+
+For raw lifters, one such guideline is as follows:
+
+4 - 5 weeks out, reduce volume
+10 - 14 days out, last heavy deadlift
+7 - 10 days out, last heavy squat
+5 days out, last heavy bench
+Perform openers, approximately 90% max
+2-3 days out, light squat, bench and deadlift (~50 - 60%)
+
+Lifters in lower weight classes and women will usually be able to recover faster than lifters in heavier weight classes. (Citation?)
+Two factor theory of recovery --> Science and Practice of Strength Training
+;T;
+I"'<h1 id="meet-prep">MEET PREP</h1>
+
+<p>For raw lifters, one such guideline is as follows:</p>
+
+<p>4 - 5 weeks out, reduce volume
+10 - 14 days out, last heavy deadlift
+7 - 10 days out, last heavy squat
+5 days out, last heavy bench
+Perform openers, approximately 90% max
+2-3 days out, light squat, bench and deadlift (~50 - 60%)</p>
+
+<p>Lifters in lower weight classes and women will usually be able to recover faster than lifters in heavier weight classes. (Citation?)
+Two factor theory of recovery â€“&gt; Science and Practice of Strength Training</p>
+;T;@ I")/Heart_Rate_Variability_and_Lifting/;T{;{	;I"þ<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Observations - Heart Rate Variability and Lifting</title>
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.7.3">
+  </head>
+  <body>
+    <div id="main">
+      
+<h1 id="heart-rate-variability-and-lifting">Heart Rate Variability and Lifting</h1>
+
+<p>Heart rate variability (HRV) has had a surge of popularity with regards to its use in optimizing the training of competitive athletes. Generally, the target demographic of companies that market HRV applications and devices is competitive team sports and combat sports, e.g., football, track, and boxing. Its use with powerlifting or olympic weightlifting is rarer. </p>
+
+<p>HRV is the variation in time interval between heartbeats. According to a plethora of studies, athletes and active individuals show a higher resting heart rate variability than untrained and sedentary individuals. Heart rate variability is reduced by illness, exhaustion, and emotional anxiety. </p>
+
+<p>The thought behind harnessing HRV for an athlete stems from mitigating overtraining (or underrecovery, as you like). If an athleteâ€™s resting HRV is consistently measured, quantitative assessment of fatigue and overtraining is possible. A reduced HRV indicates that fatigue is creeping up, and a coach can choose to reduce the athleteâ€™s workload to promote recovery for an upcoming event. Likewise, an athlete whose HRV is consistent day to day might decide that she could do with additional volume. This enables a measurable quantity on which to base recovery cycles to maximize progress.</p>
+
+<p>Some lifting programs have rest days or rest weeks specified in them. For someone who is used to training from a program strictly, HRV data may be useful to inform her decision if she wishes to skip a rest period. </p>
+
+<p>To do:
+Explain Poincare plots
+Mention applications or devices that can be used to monitor HRV
+Cite HRV and athlete studies</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>SITE INFO</h2>
+      <ul>
+        <li><a href="http://www.ligand.me">HOME</a></li>
+        <li><a href="http://www.ligand.me/about">ABOUT</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+;T;	I"w
+Heart Rate Variability and Lifting
+===========
+
+Heart rate variability (HRV) has had a surge of popularity with regards to its use in optimizing the training of competitive athletes. Generally, the target demographic of companies that market HRV applications and devices is competitive team sports and combat sports, e.g., football, track, and boxing. Its use with powerlifting or olympic weightlifting is rarer. 
+
+HRV is the variation in time interval between heartbeats. According to a plethora of studies, athletes and active individuals show a higher resting heart rate variability than untrained and sedentary individuals. Heart rate variability is reduced by illness, exhaustion, and emotional anxiety. 
+
+The thought behind harnessing HRV for an athlete stems from mitigating overtraining (or underrecovery, as you like). If an athlete's resting HRV is consistently measured, quantitative assessment of fatigue and overtraining is possible. A reduced HRV indicates that fatigue is creeping up, and a coach can choose to reduce the athlete's workload to promote recovery for an upcoming event. Likewise, an athlete whose HRV is consistent day to day might decide that she could do with additional volume. This enables a measurable quantity on which to base recovery cycles to maximize progress.
+
+Some lifting programs have rest days or rest weeks specified in them. For someone who is used to training from a program strictly, HRV data may be useful to inform her decision if she wishes to skip a rest period. 
+
+To do:
+Explain Poincare plots
+Mention applications or devices that can be used to monitor HRV
+Cite HRV and athlete studies;T;
+I"µ
+<h1 id="heart-rate-variability-and-lifting">Heart Rate Variability and Lifting</h1>
+
+<p>Heart rate variability (HRV) has had a surge of popularity with regards to its use in optimizing the training of competitive athletes. Generally, the target demographic of companies that market HRV applications and devices is competitive team sports and combat sports, e.g., football, track, and boxing. Its use with powerlifting or olympic weightlifting is rarer. </p>
+
+<p>HRV is the variation in time interval between heartbeats. According to a plethora of studies, athletes and active individuals show a higher resting heart rate variability than untrained and sedentary individuals. Heart rate variability is reduced by illness, exhaustion, and emotional anxiety. </p>
+
+<p>The thought behind harnessing HRV for an athlete stems from mitigating overtraining (or underrecovery, as you like). If an athleteâ€™s resting HRV is consistently measured, quantitative assessment of fatigue and overtraining is possible. A reduced HRV indicates that fatigue is creeping up, and a coach can choose to reduce the athleteâ€™s workload to promote recovery for an upcoming event. Likewise, an athlete whose HRV is consistent day to day might decide that she could do with additional volume. This enables a measurable quantity on which to base recovery cycles to maximize progress.</p>
+
+<p>Some lifting programs have rest days or rest weeks specified in them. For someone who is used to training from a program strictly, HRV data may be useful to inform her decision if she wishes to skip a rest period. </p>
+
+<p>To do:
+Explain Poincare plots
+Mention applications or devices that can be used to monitor HRV
+Cite HRV and athlete studies</p>
+;T;@&:versioni
