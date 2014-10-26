@@ -1,4 +1,4 @@
-Starting Strength (Program) 
+STARTING STRENGTH
 ============
 
 > A weak man is not as happy as that same man would be if he were strong.
