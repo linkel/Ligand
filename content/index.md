@@ -11,6 +11,7 @@ POWERLIFTING
 * [Norwegian High Frequency Programs](http://ligand.me/Norwegian_High_Frequency_Programs "Norwegian study on high-frequency lifting leading to faster strength gains")
 * [Heart Rate Variability and Lifting](http://ligand.me/Heart_Rate_Variability_and_Lifting "Using HRV to assist in programming deloads")
 * [Meet Prep](http://ligand.me/Meet_Prep "Preparing for a meet")
+* [Deadlift Programs](http://ligand.me/Deadlift_Programs "A list of deadlifting programs compared.")
 
 HEADER TEST
 ----------------
