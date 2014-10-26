@@ -104,6 +104,7 @@ blockquote {
   font: 14px;
   background-color: #F1F1F1;
   margin: 5px;
+  padding-left: 30px
 } 
 
 blockquote p {
