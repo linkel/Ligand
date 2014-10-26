@@ -1,7 +1,7 @@
 Starting Strength (Program) 
 ============
 
-> A weak man is not as happy as that same man would be if he were strong.  
+> A weak man is not as happy as that same man would be if he were strong.
 
 Starting Strength is a book and program by Mark Rippetoe that has found widespread use as a beginner's barbell program. The program chiefly uses the squat, overhead press, deadlift, bench press, and power clean as its main movements for laying a strength foundation. 
 
