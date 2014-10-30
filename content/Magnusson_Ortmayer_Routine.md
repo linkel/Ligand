@@ -1,3 +1,6 @@
 MAGNUSSON/ORTMAYER DEADLIFT ROUTINE
 ============
 
+Magnusson/Ortmayer is a once-per-week deadlift routine that consists of a 4x4 followed by two increasing doubles and one AMRAP (as many reps as possible) set at the 4x4 weight. Since the program is once per week, a lifter can dedicate a day for their deadlifts and easily incorporate the routine alongside any squat/bench. For example, one could run a 4-day [Texas Method](http://ligand.me/Texas_Method "A weekly-progression barbell program.") with deadlifts given a separate day, and replacing the TM deadlift routine with Mag/Ort. 
+
+The routine is commonly performed with a 10 lb weekly progression. 5 lb increases are also perfectly acceptable for lower-bodyweight or advanced lifters. The appeal of Mag/Ort is its sole prescription of deadlifts--unlike some other programs that list assistance lifts (RDLs, rows, weighted pullups, etc.), Magnusson/Ortmayer relies on moderate-high deadlift volume as its base and the variance of the AMRAP set as its undulating weekly periodization. 
