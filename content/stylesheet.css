@@ -5,6 +5,10 @@
   font-family: Georgia, Palatino, serif;
 }
 
+html {
+  font-size: 120%
+  }
+  
 body {
   background: #fff;
 }
